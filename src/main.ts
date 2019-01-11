@@ -1,11 +1,12 @@
 import Vue from 'vue'
-import App from './App.vue'
-import router from './router'
-import './registerServiceWorker'
+import router from './setup/router'
+import './setup/registerServiceWorker'
+import './setup/registerComponents'
+import './setup/registerEventBus'
 
 Vue.config.productionTip = false
 
 new Vue({
   router,
-  render: h => h(App)
+  template : '<app />'
 }).$mount('#app')
