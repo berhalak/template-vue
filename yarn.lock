@@ -7616,6 +7616,11 @@ vm-browserify@0.0.4:
   dependencies:
     indexof "0.0.1"
 
+vue-event-manager@2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/vue-event-manager/-/vue-event-manager-2.1.2.tgz#6b0c687d47afdb7c12684f5ff7450af5b3dcf98e"
+  integrity sha512-GZtkpGPBseH99rZgQSHkekhjIwgO7h5nGxOUjtKbxbCFuRxUwh61F6vS16DEMJMYPW9qGAk0P9xy64HKUhbd6w==
+
 vue-hot-reload-api@^2.3.0:
   version "2.3.1"
   resolved "https://registry.yarnpkg.com/vue-hot-reload-api/-/vue-hot-reload-api-2.3.1.tgz#b2d3d95402a811602380783ea4f566eb875569a2"

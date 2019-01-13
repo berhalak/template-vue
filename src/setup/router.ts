@@ -10,7 +10,7 @@ export default new Router({
     {
       path : "/",
       component : {
-        template : "<div>default</div>"
+        template : "<home />"
       }
     }
   ]

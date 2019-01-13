@@ -8,6 +8,8 @@
     "moduleResolution": "node",
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
+    "allowJs": true,
+    "experimentalDecorators": true,
     "sourceMap": true,
     "baseUrl": ".",
     "types": [
