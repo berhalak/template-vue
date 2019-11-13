@@ -4,9 +4,14 @@ import './setup/registerServiceWorker'
 import './setup/registerComponents'
 import './setup/registerEventBus'
 
+
 Vue.config.productionTip = false
 
 new Vue({
   router,
-  template : '<app />'
+  template: '<app />'
 }).$mount('#app')
+
+
+// register tailwind styles last
+import "./style/tailwind.css"

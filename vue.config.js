@@ -4,13 +4,6 @@ module.exports = {
             .rule('vue')
             .use('vue-strict')
             .loader('vue-strict');
-    },    
-    runtimeCompiler: true,
-    css: {
-        loaderOptions : {
-            sass : {
-                data : `@import "@/style/global.scss";`
-            }
-        }
-    }
+    },
+    runtimeCompiler: true
 }
