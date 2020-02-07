@@ -1,6 +1,4 @@
 <template>
-  <div class="home">
-    {{msg}}
-  </div>
+	<div class="text-gray-800">{{msg}}</div>
 </template>
 
