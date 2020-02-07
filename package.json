@@ -15,7 +15,7 @@
 		"vue": "^2.6.11",
 		"vue-event-manager": "2.1.2",
 		"vue-router": "^3.1.5",
-		"vue-strict": "^0.0.14"
+		"vue-strict": "^0.0.17"
 	},
 	"devDependencies": {
 		"@types/chai": "^4.2.8",
@@ -39,6 +39,6 @@
 		}
 	},
 	"browserslist": [
-		"last Chrome 2 versions"
+		"last 2 Chrome versions"
 	]
 }
