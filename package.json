@@ -16,8 +16,6 @@
 		"vue-strict": "^0.0.21"
 	},
 	"devDependencies": {
-		"@types/chai": "^4.2.11",
-		"@types/mocha": "^7.0.2",
 		"vue-cli-plugin-portal": "^1.1.1",
 		"@vue/cli-plugin-pwa": "^4.3.0",
 		"@vue/cli-plugin-typescript": "^4.3.0",
