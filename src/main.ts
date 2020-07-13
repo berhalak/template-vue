@@ -4,7 +4,6 @@ import Vue from 'vue'
 import './style/tailwind.css'
 
 import router from './setup/router'
-import './setup/registerServiceWorker'
 import './setup/registerComponents'
 import './setup/registerEventBus'
 
